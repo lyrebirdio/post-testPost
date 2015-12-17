@@ -11,7 +11,7 @@ Hi, this is a test post.
 
 ![An image.][0]
 
-By John Tann from Sydney, Australia (Superb Lyrebird) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+> By John Tann from Sydney, Australia (Superb Lyrebird) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
 
 ```
 function someCode() {
