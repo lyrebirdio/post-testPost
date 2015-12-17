@@ -11,7 +11,7 @@ Hi, this is a test post.
 
 > A beautiful lyrebird.
 
-```
+```JavaScript
 function someCode() {
   console.log('Hello world!');
 }
