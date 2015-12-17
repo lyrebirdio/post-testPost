@@ -9,7 +9,9 @@ Hi, this is a test post.
 
 > Here's a block quote. So cool.
 
-![An image.](testImage.jpg)
+![An image.](lyrebird.jpg)
+
+By John Tann from Sydney, Australia (Superb Lyrebird) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
 
 ```
 function someCode() {
